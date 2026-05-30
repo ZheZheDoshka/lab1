@@ -1,1 +1,2 @@
 cards.zip filter=lfs diff=lfs merge=lfs -text
+lab3/generated_images.zip filter=lfs diff=lfs merge=lfs -text
